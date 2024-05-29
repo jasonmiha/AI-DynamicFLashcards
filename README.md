@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Dynamic Cards project integrates frontend and backend technologies to efficiently parse and organize lengthy YouTube transcripts, revolutionizing study processes and enhancing digital learning experiences. This project leverages React for the frontend and FastAPI for the backend.
+The Dynamic Flashcards project integrates frontend and backend technologies to efficiently parse and organize lengthy YouTube transcripts, generating dynamic study flashcards that revolutionize study processes and enhance digital learning experiences. This project leverages React for the frontend and FastAPI for the backend.
 
 ## Features
 
